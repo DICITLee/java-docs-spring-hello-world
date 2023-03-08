@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello DIC World! Sample Supplier Infor ";
+		return "Hello World! TEST001! ";
 	}
 }
